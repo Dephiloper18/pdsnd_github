@@ -1,3 +1,5 @@
+# No guarantee for functioning dataset of Washington
+
 import time
 import pandas as pd
 
@@ -207,3 +209,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+# In case you encounter an error please contact the developer at tim@bikeshare.us
